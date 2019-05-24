@@ -15,8 +15,12 @@
  */
 
 /* Prevent the page from becoming too wide. */
+.doc {
+  background-color: #f4f4f4;
+}
 body {
   max-width: 600px;
+  font-family: Roboto;
 }
 
 /* Remove bullet points from navigation bar. */

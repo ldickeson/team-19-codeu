@@ -14,10 +14,12 @@
  * limitations under the License.
  */
 
-/* Prevent the page from becoming too wide. */
+/*Set background color of page.*/
 .doc {
   background-color: #f4f4f4;
 }
+
+/* Prevent the page from becoming too wide and set text font. */
 body {
   max-width: 600px;
   font-family: Roboto;

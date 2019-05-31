@@ -53,3 +53,4 @@
   function buildUI(){
    fetchMessages();
   }
+  

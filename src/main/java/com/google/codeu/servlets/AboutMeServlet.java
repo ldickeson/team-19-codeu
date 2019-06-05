@@ -18,4 +18,3 @@ public class AboutMeServlet extends HttpServlet{
   response.getOutputStream().println("hello world");
  }
 }
-HELLO

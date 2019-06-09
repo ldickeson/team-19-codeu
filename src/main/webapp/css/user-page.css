@@ -45,3 +45,10 @@
 .hidden {
   display: none;
 }
+
+/* Adjusts the image size entered by the user */
+.message-body img {
+  display: block;
+  margin-top: 25px;
+  max-width: 75%;
+}

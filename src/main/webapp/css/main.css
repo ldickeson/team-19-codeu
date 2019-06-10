@@ -36,3 +36,10 @@ nav li {
   display: inline-block;
   margin-right: 10px
 }
+
+/* Set the size of the map and add a border. */
+#map {
+  width: 500px;
+  height: 500px;
+  border: thin solid black;
+}
